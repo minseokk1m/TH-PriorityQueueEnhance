@@ -1,0 +1,3 @@
+Array: 367261
+Mean of total Queue Operation Time per batch: 0.02809312565178987s
+Standard Deviation of total Queue Operation Time per batch: 0.02745337117602149s
